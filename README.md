@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="assets/slides/slide-01.png" width="800" alt="취업해조 - 적성문제 레벨테스트 및 팁 공유 커뮤니티">
-</p>
-
 <h1 align="center">취업해조</h1>
 <p align="center"><b>적성문제 레벨테스트 및 팁 공유 커뮤니티</b></p>
 <p align="center">AI융합캡스톤디자인2</p>
